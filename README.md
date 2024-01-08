@@ -10,7 +10,7 @@ Given a string s, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and ret
 #### Example 2:
 - Input: s = "aeiou"
 - Output: ""
- 
+  
 #### Constraints:
 - 1 <= s.length <= 1000
 - s consists of only lowercase English letters.
